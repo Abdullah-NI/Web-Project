@@ -1,0 +1,7 @@
+.InfoBox{
+    text-align: center;
+}
+.card-contaner{
+    display: flex;
+    justify-content: center;
+}
